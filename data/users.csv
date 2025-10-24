@@ -1,0 +1,5 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender
+Rohit,Prasad,35,"A-563 Rakshak Society","New Pune Road",Pune,Maharashtra,male
+Anita,Kumar,19,"Block 12","MG Road",Mumbai,Maharashtra,female
+Old,Person,75,"Old St","Near Park",Chennai,Tamil Nadu,male
+
